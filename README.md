@@ -10,7 +10,7 @@ Now I'm learning Django Rest Framework and React.
 
 I want to become Senior Full Stack Web Developer.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmeerrccyy&show_icons=true&theme=gradient)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmeerrccyy&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <!--
 **mmeerrccyy/mmeerrccyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
