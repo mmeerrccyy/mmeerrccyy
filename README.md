@@ -2,9 +2,12 @@
 
 #### About me
 
-My name is Taras. 
+My name is Taras.
+
 I'm 18 years old.
+
 I live in Ukraine, city Lviv.
+
 I'm student of Institute of Business & Innovative Technologies at Lviv Politechnic and Junior Web Developer.
 
 #### What I know
@@ -18,6 +21,7 @@ Now I'm currently learning Django Rest Framework and React.
 #### My Goals
 
 I want to become Senior Full Stack Web Developer and improve my English and Math skills.
+
 Find a job by the end of 2021.
 
 #### Stats
